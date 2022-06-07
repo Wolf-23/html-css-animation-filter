@@ -138,7 +138,7 @@
 /* width 60px position absolute left 10% top -10px*/
 
 .ex-12-button:hover .ex-12-top-white{
-    animation: move 2s;
+    animation: move 2s linear; 
 }
 
 @keyframes move {
@@ -158,7 +158,7 @@
 /* width 60px position absolute right 20% bottom -10px*/
 
 .ex-12-button:hover .ex-12-bottom-white{
-    animation: move-bt 2s;
+    animation: move-bt 2s linear;
 }
 
 @keyframes move-bt {
