@@ -1,4 +1,4 @@
-# Esercizio Boolean - Discord Layout
+# Esercizio Boolean - Animations
 
 * Nome: htmlcss-animation-filter
 * Autore: Lupinu Riccardo
